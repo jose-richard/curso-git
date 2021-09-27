@@ -12,3 +12,6 @@ function multiplicar(num1, num2){
 function dividir(n1, n2){
     return n1/n2;
 }
+function modulo(n1, n2){
+    return n1%n2;
+}
